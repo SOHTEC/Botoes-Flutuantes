@@ -30,7 +30,8 @@ Exemplo:
     SOH_API.Imovel = {
         "Modulo": "LOCACAO", //ou VENDAS
         "Codigo": "0002",
-        "FotoUrl": "https://sohtec.com.br/services//images/modelo.jpg", //Informe a URL Absoluta da imagem (Ex: http://www.seudominio.com.br/imagem.jpg)
+        //Informe a URL Absoluta da imagem (Ex: http://www.seudominio.com.br/imagem.jpg)
+        "FotoUrl": "https://sohtec.com.br/services//images/modelo.jpg", 
         "Endereco": "Endereco Teste",
         "Numero": "1234",
         "Complemento": "Apto 305",
